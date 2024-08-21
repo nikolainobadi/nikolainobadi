@@ -1,8 +1,7 @@
 # Nikolai Nobadi
-I am an iOS developer with a strong focus on modular architecture and comprehensive testing. I specialize in building scalable systems and ensuring their reliability through detailed unit and integration test suites. My work emphasizes writing clean, readable, and maintainable code, providing a solid foundation for future development. 
+I’m an iOS developer passionate about creating efficient, modular apps that are easy to scale and maintain. I prioritize readability and always aim to make future modifications straightforward, which is much easier with a robust test suite. The guiding question I ask myself is: "Will I understand this code in 5 months without having to spend more than a few minutes reviewing it?". If the answer is no, it's time to refactor.
 
 As a personal challenge, I'm currently in the process of making specific modules from my App Store apps public to showcase the modularity and structure of my work.
-
 
 ### 🛠️ Languages & Tools
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
