@@ -28,7 +28,7 @@ As a personal challenge, I'm currently in the process of making specific modules
     <img align="left" alt="iCleanMe" width="100px" style="padding-right:50px;" src="AppStoreIcons/iCleanMeIcon.jpg" >
 </a>
 <a href="https://apps.apple.com/us/app/igetgroceries/id1578530983">
-    <img align="left" alt="iGetGroceries" width="100px" style="padding-right:50px;" src="AppStoreIcons/iGetGroceriesIcon.jpg" >
+    <img align="left" alt="iGetGroceries" width="100px" style="padding-right:50px;" src="AppStoreIcons/iGetGroceriesAppIcon.jpg" >
 </a>
 <a href="https://apps.apple.com/app/ioweyou-debt-tracker/id6450847298">
     <img align="left" alt="iOweYou" width="100px" style="padding-right:50px;"  src="AppStoreIcons/iOweYouIcon.jpg" >
