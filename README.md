@@ -26,15 +26,19 @@ As a personal challenge, I'm currently in the process of making specific modules
   <a href="https://apps.apple.com/app/icleanme/id1350310256">
     <img alt="iCleanMe" src="AppStoreIcons/iCleanMeAppIcon.png" style="width: 100px; height: 100px; margin: 10px;">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/igetgroceries/id1578530983">
     <img alt="iGetGroceries" src="AppStoreIcons/iGetGroceriesAppIcon.png" style="width: 100px; height: 100px; margin: 10px;">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://apps.apple.com/app/ioweyou-debt-tracker/id6450847298">
     <img alt="iOweYou" src="AppStoreIcons/iOweYouAppIcon.png" style="width: 100px; height: 100px; margin: 10px;">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/iaddthree/id1389962750">
     <img alt="iAddThree" src="AppStoreIcons/iAddThreeAppIcon.png" style="width: 100px; height: 100px; margin: 10px;">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://apps.apple.com/us/app/codepurge/id6740788205?mt=12">
     <img alt="CodePurge" src="AppStoreIcons/CodePurgeAppIcon.png" style="width: 100px; height: 100px; margin: 10px;">
   </a>
@@ -46,6 +50,7 @@ As a personal challenge, I'm currently in the process of making specific modules
   <a href="https://testflight.apple.com/join/RZ4TSPUX">
     <img alt="Multiverse" src="AppStoreIcons/MultiverseAppIcon.png" style="width: 100px; height: 100px; margin: 10px;">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://testflight.apple.com/join/Eg6vpSdn">
     <img alt="Hoursaurus" src="AppStoreIcons/HoursaurusAppIcon.png" style="width: 100px; height: 100px; margin: 10px;">
   </a>
