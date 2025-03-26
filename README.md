@@ -18,21 +18,62 @@ As a personal challenge, I'm currently in the process of making specific modules
 <br />
 <br />
 
-#
+---
 
-### <img align="left" alt="App Store" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg"/> Available on the App **Store**
+### <img alt="App Store" width="20px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/6/67/App_Store_%28iOS%29.svg"/> Available on the App **Store**
 
-<br />
+<p>
+    <a href="https://apps.apple.com/app/icleanme/id1350310256">
+        <div style="width: 100px; height: 100px; border-radius: 12px; overflow: hidden; display: inline-block; margin-bottom: 20px; margin-right: 20px;">
+            <img alt="iCleanMe" width="100px" height="100px" style="display: block;" src="AppStoreIcons/iCleanMeIcon.jpg">
+        </div>
+    </a>
+    <a href="https://apps.apple.com/us/app/igetgroceries/id1578530983">
+        <div style="width: 100px; height: 100px; border-radius: 12px; overflow: hidden; display: inline-block; margin-bottom: 20px; margin-right: 20px;">
+            <img alt="iGetGroceries" width="100px" height="100px" style="display: block;" src="AppStoreIcons/iGetGroceriesIcon.jpg">
+        </div>
+    </a>
+    <a href="https://apps.apple.com/app/ioweyou-debt-tracker/id6450847298">
+        <div style="width: 100px; height: 100px; border-radius: 12px; overflow: hidden; display: inline-block; margin-bottom: 20px; margin-right: 20px;">
+            <img alt="iOweYou" width="100px" height="100px" style="display: block;" src="AppStoreIcons/iOweYouIcon.jpg">
+        </div>
+    </a>
+    <a href="https://apps.apple.com/us/app/iaddthree/id1389962750">
+        <div style="width: 100px; height: 100px; border-radius: 12px; overflow: hidden; display: inline-block; margin-bottom: 20px; margin-right: 20px;">
+            <img alt="iAddThree" width="100px" height="100px" style="display: block;" src="AppStoreIcons/iAddThreeIcon.jpg">
+        </div>
+    </a>
+    <a href="https://apps.apple.com/us/app/codepurge/id6740788205?mt=12">
+        <div style="width: 100px; height: 100px; border-radius: 12px; overflow: hidden; display: inline-block; margin-bottom: 20px; margin-right: 20px;">
+            <img alt="CodePurge" width="100px" height="100px" style="display: block;" src="AppStoreIcons/CodePurgeIcon.jpg">
+        </div>
+    </a>
+</p>
 
-<a href="https://apps.apple.com/app/icleanme/id1350310256">
-    <img align="left" alt="iCleanMe" width="100px" style="padding-right:50px;" src="AppStoreIcons/iCleanMeIcon.jpg" >
-</a>
-<a href="https://apps.apple.com/us/app/igetgroceries/id1578530983">
-    <img align="left" alt="iGetGroceries" width="100px" style="padding-right:50px;" src="AppStoreIcons/iGetGroceriesAppIcon.jpg" >
-</a>
-<a href="https://apps.apple.com/app/ioweyou-debt-tracker/id6450847298">
-    <img align="left" alt="iOweYou" width="100px" style="padding-right:50px;"  src="AppStoreIcons/iOweYouIcon.jpg" >
-</a>
-<a href="https://apps.apple.com/us/app/iaddthree/id1389962750">
-    <img align="left" alt="iAddThree" width="100px" style="padding-right:50px;" src="AppStoreIcons/iAddThreeIcon.jpg" >
-</a>
+---
+
+### <img alt="TestFlight" width="20px" style="padding-right:10px;" src="https://developer.apple.com/assets/elements/icons/testflight/testflight-96x96_2x.png"/> Available on **TestFlight**
+
+<p>
+    <a href="https://testflight.apple.com/join/RZ4TSPUX">
+        <div style="width: 100px; height: 100px; border-radius: 12px; overflow: hidden; display: inline-block; margin-bottom: 20px; margin-right: 20px;">
+            <img alt="CodePurge" width="100px" height="100px" style="display: block;" src="AppStoreIcons/MultiverseIcon.png">
+        </div>
+    </a>
+    <a href="https://testflight.apple.com/join/Eg6vpSdn">
+        <div style="width: 100px; height: 100px; border-radius: 12px; overflow: hidden; display: inline-block; margin-bottom: 20px; margin-right: 20px;">
+            <img alt="Hoursaurus" width="100px" height="100px" style="display: block;" src="AppStoreIcons/HoursaurusIcon.png">
+        </div>
+    </a>
+</p>
+
+---
+
+### 🍺 Available on **Homebrew Tap**
+
+- **nnex**: A command-line tool to manage swift executables and streamline distribution with Homebrew
+
+```bash
+brew tap nikolainobadi/nntools
+brew install <formula-name>
+```
