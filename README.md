@@ -59,7 +59,7 @@ As a personal challenge, I'm currently in the process of making specific modules
 
 ---
 
-### 🍺 Available on **Homebrew Tap**
+### 🍺 Available on **Homebrew**
 
 - **nnex**: A command-line tool to manage swift executables and streamline distribution with Homebrew
 
