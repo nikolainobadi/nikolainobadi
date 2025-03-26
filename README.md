@@ -65,5 +65,5 @@ As a personal challenge, I'm currently in the process of making specific modules
 
 ```bash
 brew tap nikolainobadi/nntools
-brew install <formula-name>
+brew install nnex
 ```
