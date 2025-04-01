@@ -62,8 +62,10 @@ As a personal challenge, I'm currently in the process of making specific modules
 ### 🍺 Available on **Homebrew**
 
 - **nnex**: A command-line tool to manage swift executables and streamline distribution with Homebrew
+- **nnapp**: A project launcher CLI for organizing and managing your Swift/Xcode projects.
 
 ```bash
 brew tap nikolainobadi/nntools
 brew install nnex
+brew install nnapp
 ```
