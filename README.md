@@ -1,7 +1,9 @@
 # Nikolai Nobadi
-I’m an iOS developer passionate about creating efficient, modular apps that are easy to scale and maintain. I prioritize readability and always aim to make future modifications straightforward, which is much easier with a robust test suite. The guiding question I ask myself is: "Will I understand this code in 5 months without having to spend more than a few minutes reviewing it?". If the answer is no, it's time to refactor.
+I’m an iOS developer focused on building modular apps that are easy to scale, test, and maintain. My goal is to write code that’s clean, flexible, and easy to return to, both for teammates and for my future self.
 
-As a personal challenge, I'm currently in the process of making specific modules from my App Store apps public to showcase the modularity and structure of my work.
+I prioritize readability and test coverage to ensure that changes can be made confidently. The question I ask myself constantly is: will I understand this code in five months without needing to retrace every step? If not, it's time to refactor.
+
+Lately, I’ve been branching out into macOS development and command-line tools. I’m also extracting specific modules from my App Store apps and making them public to showcase how I approach architecture, testing, and scalable system design.
 
 ### 🛠️ Languages & Tools
 <img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
