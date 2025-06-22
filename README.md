@@ -49,9 +49,9 @@ Lately, I’ve been branching out into macOS development and command-line tools.
 ### <img alt="TestFlight" width="20px" style="padding-right:10px;" src="https://developer.apple.com/assets/elements/icons/testflight/testflight-96x96_2x.png"/> Available on **TestFlight**
 
 <div style="display: flex; align-items: center;">
-  <a href="https://testflight.apple.com/join/RZ4TSPUX">
+<!--   <a href="https://testflight.apple.com/join/RZ4TSPUX">
     <img alt="Multiverse" src="AppStoreIcons/MultiverseAppIcon.png" style="width: 100px; height: 100px; margin: 10px;">
-  </a>
+  </a> -->
   &nbsp;&nbsp;&nbsp;
   <a href="https://testflight.apple.com/join/Eg6vpSdn">
     <img alt="Hoursaurus" src="AppStoreIcons/HoursaurusAppIcon.png" style="width: 100px; height: 100px; margin: 10px;">
