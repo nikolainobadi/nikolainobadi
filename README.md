@@ -44,6 +44,10 @@ Lately, I’ve been branching out into macOS development and command-line tools.
   <a href="https://apps.apple.com/us/app/codepurge/id6740788205?mt=12">
     <img alt="CodePurge" src="AppStoreIcons/CodePurgeAppIcon.png" style="width: 100px; height: 100px; margin: 10px;">
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://apps.apple.com/us/app/hoursaurus/id6743008502">
+    <img alt="Hoursaurus" src="AppStoreIcons/HoursaurusAppIcon.png" style="width: 100px; height: 100px; margin: 10px;">
+  </a>
 </div>
 
 ### <img alt="TestFlight" width="20px" style="padding-right:10px;" src="https://developer.apple.com/assets/elements/icons/testflight/testflight-96x96_2x.png"/> Available on **TestFlight**
@@ -51,10 +55,6 @@ Lately, I’ve been branching out into macOS development and command-line tools.
 <div style="display: flex; align-items: center;">
   <a href="https://testflight.apple.com/join/RZ4TSPUX">
     <img alt="Multiverse" src="AppStoreIcons/MultiverseAppIcon.png" style="width: 100px; height: 100px; margin: 10px;">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://testflight.apple.com/join/Eg6vpSdn">
-    <img alt="Hoursaurus" src="AppStoreIcons/HoursaurusAppIcon.png" style="width: 100px; height: 100px; margin: 10px;">
   </a>
 </div>
 
